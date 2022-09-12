@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f66d5b8-4d76-41cd-8cbf-79fc079665de" name="Changes" comment="PersonTo demo 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3f66d5b8-4d76-41cd-8cbf-79fc079665de" name="Changes" comment="tilføjet get og set metoeder">
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PersonTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonTo.java" afterDir="false" />
     </list>
@@ -48,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662967244850</updated>
-      <workItem from="1662967246729" duration="2298000" />
+      <workItem from="1662967246729" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="PersonTo demo 1">
       <created>1662967974053</created>
@@ -57,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662967974053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tilføjet get og set metoeder">
+      <created>1662970243853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662970243853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PersonTo demo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonTo demo 1" />
+    <MESSAGE value="tilføjet get og set metoeder" />
+    <option name="LAST_COMMIT_MESSAGE" value="tilføjet get og set metoeder" />
   </component>
 </project>
